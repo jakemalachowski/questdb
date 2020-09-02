@@ -1,3 +1,5 @@
+pullRequestPreviewsEnabled: true
+pullRequestPreviewsExpireAfterDays: 4
 services:
   - type: web
     name: questdb
