@@ -1,5 +1,6 @@
-pullRequestPreviewsEnabled: true
-pullRequestPreviewsExpireAfterDays: 4
+previewsEnabled: true
+previewsExpireAfterDays: 4
+region: eu
 services:
   - type: web
     name: questdb
